@@ -4,7 +4,7 @@ import "firebase/firestore";
 import "firebase/performance";
 
 const fireConfig = {
-  apiKey: process.env.REACT_APP_FIREBASE_KEY,
+  apiKey: "AIzaSyD_lqlIS5Gu-Vck6i_mwVRoQjkEGai40ms",
   authDomain: "smart-vehicle-fleet-manager.firebaseapp.com",
   databaseURL: "https://smart-vehicle-fleet-manager.firebaseio.com",
   projectId: "smart-vehicle-fleet-manager",
