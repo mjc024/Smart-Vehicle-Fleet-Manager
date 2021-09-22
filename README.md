@@ -25,6 +25,7 @@
 [![repo size](https://img.shields.io/github/repo-size/abhishekpatel946/Smart-Vehicle-Fleet-Manager.svg)](https://github.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager/archive/master.zip)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/abhishekpatel946/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager/discussions)
+![](https://visitor-badge.glitch.me/badge?page_id=abhishekpatel946/Smart-Vehicle-Fleet-Manager.abhishekpatel946/Smart-Vehicle-Fleet-Manager?color=2bbc8a)
 
 <!-- PROJECT LOGO -->
 <br />
