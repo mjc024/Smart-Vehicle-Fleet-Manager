@@ -122,7 +122,19 @@ To get a local copy up and running follow these simple example steps.
 ```sh
 git clone https://github.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager.git
 ```
-2. Open the local copy with a good modern text editor like VS Code or Atom and start coding. 
+
+2. Public Credential for Testing
+
+Username: 
+```sh
+test@testmail.com
+```
+Password: 
+```sh
+test@123
+```
+
+3. Open the local copy with a good modern text editor like VS Code or Atom and start coding. 
 
 <a name="contribution"></a>
 <!-- CONTRIBUTING -->
