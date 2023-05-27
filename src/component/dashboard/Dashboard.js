@@ -9,6 +9,7 @@ import MaintainenceLog from "../Logs/MaintainenceLog";
 import OverSpeedLog from "../Logs/OverSpeedLog";
 import AccidentAlert from "../Logs/AccidentAlert";
 import FuelTheftAlert from "../Logs/FuelTheftAlert";
+import RpmLog from "../Logs/Rpm"
 import { Layout, Menu, Breadcrumb, Divider } from "antd";
 import { Button } from "antd";
 import NavigationIcon from "@material-ui/icons/Navigation";
@@ -366,6 +367,14 @@ function Dashboard() {
                 <MDBRow>
                   <FuelRefillLog />
                 </MDBRow>
+              </MDBContainer>
+
+               {/* Speed Section */}
+               <Divider orientation="left" id="rpmSection">
+                RPM area
+              </Divider>
+              <MDBContainer>
+                <RpmLog  />
               </MDBContainer>
 
               {/* Maintainence Section */}
